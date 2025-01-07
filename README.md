@@ -18,4 +18,4 @@
 | 12 |✒ [**PRJ301**](https://github.com/FPT-Xavalo/PRJ301) | 4 |
 | 13 |✒ [**SWE201c**](https://github.com/FPT-Xavalo/SWE201c) | 4 |
 | 14 |✒ [**PRN211**](https://github.com/FPT-Xavalo/PRN211) | 5 |
-| ️🎱 |✒ [**Facebook**](https://www.facebook.com/ekanC) | ♥️ |
+| ️🎱 |🐍 [**Facebook**](https://www.facebook.com/ekanC) | ♥️ |
